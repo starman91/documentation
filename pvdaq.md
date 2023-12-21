@@ -233,6 +233,10 @@ A multi-institution consortium focused on discovery, development, de-risking, an
 
 ## Python Connection Examples
 
+Connecting to OEDI data archive and downloading all data available for a single system<br/>
+[PVDAQ Data Access](https://github.com/NREL/pvdaq_access)
+
+
 Athena data connection using PyAthena:
 ```python
 
